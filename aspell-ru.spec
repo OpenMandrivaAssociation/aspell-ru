@@ -11,8 +11,8 @@
 Summary:	%{languageenglazy} files for aspell
 Summary(ru):	Русская проверка орфографии
 Name:		aspell-%{languagecode}
-Version:	0.99f7.1
-Release:	21
+Version:	0.99.f7.1
+Release:	1
 Group:		System/Internationalization
 License:	GPLv2
 Url:		http://aspell.net/
